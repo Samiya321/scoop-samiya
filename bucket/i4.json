@@ -1,0 +1,40 @@
+{
+  "version": "7.98.59",
+  "description": "爱思助手 From: hoilc/scoop-lemon",
+  "homepage": "https://www.i4.cn/pro_pc.html",
+  "license": "Freeware",
+  "url": "https://d-ali4tool.i4.cn/i4tools/V7/v7.98/59/i4Tools_v7.98.59_Setup.exe#/dl.7z",  
+  "hash": "ae21e28304c6afc3ce3f75304ce7b80fec9afce3db47b66072e657fa51c094e1",
+  "bin": "i4Tools.exe",
+  "shortcuts": [
+      [
+          "i4Tools.exe",
+          "i4Tools"
+      ]
+  ],
+  "persist": [
+      "Download",
+      "cache"
+  ],
+  "pre_install": [
+      "if (Test-Path \"$persist_dir\\data.db\") { Move-Item \"$persist_dir\\data.db\" \"$dir\" -Force }",
+      "if (Test-Path \"$persist_dir\\setting.cfg\") { Move-Item \"$persist_dir\\setting.cfg\" \"$dir\" -Force }"
+  ],
+  "post_install": "Remove-Item \"$dir\\Uninstall*\" -Force -Recurse",
+  "uninstaller": {
+      "script": [
+          "if(Test-Path \"$dir\\data.db\") { Move-Item \"$dir\\data.db\" \"$persist_dir\" -Force }",
+          "if(Test-Path \"$dir\\setting.cfg\") { Move-Item \"$dir\\setting.cfg\" \"$persist_dir\" -Force }"
+      ]
+  },
+  "checkver": {
+      "script": [
+          "try { $detail = Invoke-WebRequest 'https://url.i4.cn/faIfqyaa' -MaximumRedirection 0 -ErrorAction Ignore } catch { $_.Exception.Response }",
+          "return $detail.Headers.Location"
+      ],
+      "regex": "/i4Tools_v([\\d.]+)"
+  },
+  "autoupdate": {
+      "url": "https://d-ali4tool.i4.cn/i4tools/V$majorVersion/v$majorVersion.$minorVersion/$patchVersion/i4Tools_v$version_Setup.exe#/dl.7z"
+  }
+}

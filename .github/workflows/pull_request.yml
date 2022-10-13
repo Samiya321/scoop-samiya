@@ -1,0 +1,15 @@
+on:
+  pull_request:
+    types: [opened]
+name: Pull requests
+jobs:
+  pullRequestHandler:
+    name: PullRequestHandler
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: PullRequestHandler
+      uses: ScoopInstaller/Scoop-GithubActions@main
+      env:
+        GITH_EMAIL: vemodalen@163.com
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

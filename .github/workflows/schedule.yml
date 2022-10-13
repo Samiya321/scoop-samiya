@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 */3 * * *'
+name: Excavator
+jobs:
+  excavate:
+    name: Excavate
+    runs-on: windows-latest
+    timeout-minutes: 15
+    steps:
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+    - name: Excavate
+      uses: ScoopInstaller/Scoop-GithubActions@main
+      env:
+        USER_EMAIL: vemodalen@163.com
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        SKIP_UPDATED: '1'
+        SCOOP_GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        SCOOP_BRANCH: 'main'
+        THROW_ERROR: '0'
