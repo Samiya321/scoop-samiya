@@ -18,7 +18,7 @@ scoop install lemon/<app_name>
 <br/>
 
 ```
-scoop bucket add lemon https://jihulab.com/samiya/scoop-samiya
+scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 ```
 
 </details>
