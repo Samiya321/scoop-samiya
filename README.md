@@ -4,13 +4,13 @@
 To add this bucket to scoop, run the following command in PowerShell:
 
 ```
-scoop bucket add lemon https://github.com/samiya/scoop-samiya
+scoop bucket add samiya https://github.com/samiya/scoop-samiya
 ```
 
 then
 
 ```
-scoop install lemon/<app_name>
+scoop install samiya/<app_name>
 ```
 <br/>
 <details>
