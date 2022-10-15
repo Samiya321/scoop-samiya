@@ -1,45 +1,38 @@
 {
     "version": "2.12.14",
-    "description": "一款第三方的阿里云盘客户端，支持 Windows、macOS ",
+    "description": "A third-party Adrive client that supports Windows and macOS.",
     "homepage": "https://github.com/liupan1890/aliyunpan",
-    "license": "Unknown",
-    "notes": [
-        "https://raw.githubusercontent.com/yi-Xu-0100/scoop-bucket/main/bucket/aliyunpan-xiaobaiyang.json"
-    ],
-    "url": "https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2UubGFuem91aS5jb20vaVdKeEQwMzdpazlp.7z",
+    "license": {
+        "identifier": "Freeware"
+    },
+    "url": "https://pan.jiemi.workers.dev/?file=/else/阿里小白羊版Win_v2.12.14.7z",
     "hash": "8467a10afa28daf514645eed93d1fd9c27fd347c0dd42979687ae38a036fb081",
     "extract_dir": "阿里云盘小白羊版v2",
     "installer": {
         "script": [
-            "    # Rename",
-            "Get-ChildItem -r \"$dir\\阿里云盘小白羊版*.exe\" | Rename-Item -newname \"$dir\\阿里云盘小白羊版.exe\"",
-            "# handle runtime cache",
-            "if (!(Test-Path $persist_dir)) {",
-            "    New-Item $persist_dir -Type Directory -Force | Out-Null",
+            "if (!(Test-Path \"$persist_dir\\appdata\") -and (Test-Path \"$env:APPDATA\\alixby\")) {",
+            "    Copy-Item \"$env:APPDATA\\alixby\" \"$persist_dir\\appdata\" -ErrorAction SilentlyContinue -Recurse -Force",
+            "    Remove-Item \"$env:APPDATA\\alixby\" -ErrorAction 'SilentlyContinue' -Recurse -Force",
             "}",
-            "$runtimeCache = \"$env:APPDATA\\alixby\"",
-            "$runtimeCachePersist = \"$persist_dir\\appdata\"",
-            "if (Test-Path $runtimeCachePersist) {",
-            "    Remove-Item $runtimeCache -Force -Recurse -ErrorAction SilentlyContinue",
-            "    New-Item -Type Junction -Path $runtimeCache -Target $runtimeCachePersist | Out-Null",
-            "} else {",
-            "    if (Test-Path $runtimeCache) {",
-            "        Move-Item $runtimeCache $runtimeCachePersist -Force",
-            "        New-Item -Type Junction -Path $runtimeCache -Target $runtimeCachePersist | Out-Null",
-            "    }",
-            "}"
+            "ensure \"$persist_dir\\appdata\" | Out-Null",
+            "New-Item \"$env:APPDATA\\alixby\" -ItemType Junction -Target \"$persist_dir\\appdata\" | Out-Null"
         ]
     },
     "uninstaller": {
-        "script": [
-            "$runtimeCache = \"$env:APPDATA\\alixby\"",
-            "$runtimeCachePersist = \"$persist_dir\\appdata\"",
-            "if (!(Test-Path $runtimeCachePersist)) {",
-            "    Move-Item $runtimeCache $runtimeCachePersist -Force",
-            "} else {",
-            "    Remove-Item $runtimeCache -Force -Recurse -ErrorAction SilentlyContinue",
-            "}"
-        ]
+        "script": "Remove-Item \"$env:APPDATA\\alixby\" -ErrorAction 'SilentlyContinue' -Force -Recurse"
     },
-    "shortcuts": [["阿里云盘小白羊版.exe", "阿里云盘小白羊版"]]
+    "shortcuts": [
+        [
+            "阿里云盘小白羊版v2.exe",
+            "阿里云盘小白羊"
+        ]
+    ],
+    "checkver": {
+        "url": "https://github.com/Ryanjiena/MetaVersion/raw/main/oneindex.txt",
+        "regex": "阿里小白羊版Win_v([\\d.]+).7z",
+        "reverse": true
+    },
+    "autoupdate": {
+        "url": "https://pan.jiemi.workers.dev/?file=/else/阿里小白羊版Win_v$version.7z"
+    }
 }
