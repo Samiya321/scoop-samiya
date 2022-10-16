@@ -1,10 +1,13 @@
-# scoop-lemon Bucket
+# scoop-samiya Bucket
+
+[![Excavator](https://github.com/Samiya321/scoop-samiya/actions/workflows/schedule.yml/badge.svg)](https://github.com/Samiya321/scoop-samiya/actions/workflows/schedule.yml)
+
 ## Usage
 
 To add this bucket to scoop, run the following command in PowerShell:
 
 ```
-scoop bucket add samiya https://github.com/samiya/scoop-samiya
+scoop bucket add samiya https://github.com/Samiya321/scoop-samiya
 ```
 
 then
