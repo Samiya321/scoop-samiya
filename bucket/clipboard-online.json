@@ -1,6 +1,6 @@
 {
     "version": "0.2.7",
-    "description": "Share content between Windows and iOS/Android",
+    "description": "在各平台间同步剪贴板 好用好用好用 Windows和iOS打通啦",
     "homepage": "https://github.com/YanxinTang/clipboard-online",
     "license": "Unknown",
     "architecture": {

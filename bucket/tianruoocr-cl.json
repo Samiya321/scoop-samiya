@@ -1,6 +1,6 @@
 {
     "version": "1.3.5",
-    "description": "Tianruo ORC with local OCR, using Chinese-lite and paddleocr recognition framework",
+    "description": "天若ocr开源版本的本地版，采用Chinese-lite和paddle-ocr识别, 不需联网",
     "homepage": "https://gitee.com/wanglifree/tianruoocr-cl",
     "license": "GPL-3.0-only",
     "architecture": {

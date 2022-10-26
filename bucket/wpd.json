@@ -1,6 +1,6 @@
 {
     "version": "1.5.2042",
-    "description": "A small but powerful portable tool to customize privacy related settings in Windows.",
+    "description": "一个小而强大的可移植工具，可通过 Windows API 工作。WPD是在窗口中配置各种隐私设置的最便捷方法。",
     "homepage": "https://wpd.app/",
     "license": "Freeware",
     "url": "https://wpd.app/get/latest.zip",

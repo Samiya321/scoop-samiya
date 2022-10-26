@@ -1,6 +1,6 @@
 {
     "version": "0.4.1",
-    "description": "A copy-and-translate tool written by Rust.",
+    "description": "Copy Translator 是使用Rust编写的翻译小工具 论文必备",
     "homepage": "https://github.com/zu1k/copy-translator",
     "license": "GPL-3.0-only",
     "architecture": {

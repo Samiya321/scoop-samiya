@@ -1,6 +1,6 @@
 {
     "version": "3.11.6.402",
-    "description": "This package installs/upgrades the Tencent Meeting(腾讯会议). Tencent Meeting displays Simplified Chinese only. For other languages, please switch to VooV Meeting.",
+    "description": "腾讯会议",
     "homepage": "https://meeting.tencent.com/",
     "license": {
         "identifier": "Proprietary",

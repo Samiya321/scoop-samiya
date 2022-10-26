@@ -1,6 +1,6 @@
 {
     "version": "0.2.4",
-    "description": "A Scoop tab completion module for PowerShell",
+    "description": "在Powershell中scoop自动补全工具",
     "homepage": "https://github.com/Moeologist/scoop-completion",
     "license": "MIT",
     "notes": [
