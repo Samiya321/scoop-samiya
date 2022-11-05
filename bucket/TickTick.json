@@ -1,5 +1,5 @@
 {
-    "version": "4.3.0.0",
+    "version": "4.3.1.1",
     "description": "滴答清单 效率工具 管理时间.",
     "homepage": "https://ticktick.com/home",
     "license": "MIT",
@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://ticktick.com/static/getApp/download?type=win64",
-            "hash": "9a439cc302728e8a74bdb9cf38dbfe8863e9d1b9b47f96ad45509307cecee124"
+            "hash": "0241dd96c70f6484e4b5f17716f67eabfac61e619b61e29e867f0f5f08c933d3"
         },
         "32bit": {
             "url": "https://ticktick.com/static/getApp/download?type=win",
-            "hash": "7c0c244e03ee0186179ec598ca970bc5f4a76f5a945294b65c56b782a2a8bb91"
+            "hash": "2f968bd9d346c5e2e441291bec948abc1b9d539dddd666a3b99484a22627bd0d"
         }
     },
     "shortcuts": [
