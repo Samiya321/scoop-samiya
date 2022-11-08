@@ -1,11 +1,11 @@
 {
-    "version": "1.8.6",
+    "version": "1.8.9",
     "description": "balenaEtcher. 快速刷写镜像到 to SD cards & USB drives",
     "homepage": "https://www.balena.io/etcher/",
     "license": "Apache-2.0",
     "changelog": "https://github.com/balena-io/etcher/blob/master/CHANGELOG.md",
-    "url": "https://github.com/balena-io/etcher/releases/download/v1.8.6/balenaEtcher-Portable-1.8.6.exe#/dl.7z",
-    "hash": "012a57ca61555b00cbf4fed5f9816999c48c48a127c102dc829019f635055b49",
+    "url": "https://github.com/balena-io/etcher/releases/download/v1.8.9/balenaEtcher-Portable-1.8.9.exe#/dl.7z",
+    "hash": "bca8a7ab9ad70008f54ae5a84e20a8472f6ddeddbb4e71829134731ec0663a85",
     "extract_dir": "$PLUGINSDIR",
     "architecture": {
         "64bit": {
