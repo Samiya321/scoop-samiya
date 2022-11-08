@@ -37,7 +37,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[1Password](https://1password.com/ "https://1password.com/")|[8.9.8](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
 |[BBdown](https://github.com/nilaoda/BBDown "https://github.com/nilaoda/BBDown")|[1.5.4](https://api.github.com/repos/nilaoda/BBDown/releases/latest "https://api.github.com/repos/nilaoda/BBDown/releases/latest")|下载哔哩哔哩视频的命令行工具|
 |[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.21.7.4](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
-|[BalenaEtcher](https://www.balena.io/etcher/ "https://www.balena.io/etcher/")|[1.7.9](https://www.balena.io/etcher/ "https://www.balena.io/etcher/")|balenaEtcher. 快速刷写镜像到 to SD cards & USB drives|
+|[BalenaEtcher](https://www.balena.io/etcher/ "https://www.balena.io/etcher/")|[1.7.14](https://www.balena.io/etcher/ "https://www.balena.io/etcher/")|balenaEtcher. 快速刷写镜像到 to SD cards & USB drives|
 |[Best-Trace](https://en.ipip.net/product/client.html "https://en.ipip.net/product/client.html")|[3.8.0](https://www.ipip.net/product/client.html "https://www.ipip.net/product/client.html")|BestTrace 查看路由 ip等信息|
 |[BeyondCompare](https://www.scootersoftware.com/download.php "https://www.scootersoftware.com/download.php")|[<i>4.4.3.26655</i>](https://www.scootersoftware.com/download.php "https://www.scootersoftware.com/download.php")|Beyond Compare 最强大的比较工具|
 |[Charles](https://www.charlesproxy.com/ "https://www.charlesproxy.com/")|[4.6.3](https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/Charles.latest "https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/Charles.latest")|Charles is an HTTP proxy / HTTP monitor / Reverse Proxy. http层抓包工具|
@@ -52,7 +52,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
 |[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.44](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
-|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1891](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
+|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1897](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.4](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
 |[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.3.2.0](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
 |[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.0.1](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
@@ -67,7 +67,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.3.3](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
 |[copy-translator-rust](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|[0.4.1](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|Copy Translator 是使用Rust编写的翻译小工具 论文必备|
 |[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
-|[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.67](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
+|[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.68](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|[1.0.0](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|IDM试用重置工具 可无限白嫖IDM|
 |[potplayer-noad-portable](https://potplayer.daum.net "https://potplayer.daum.net")|[211118](https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer "https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer")|Potplayer便携版 最强大的影音播放工具|
 |[potplayer-skin-modernwin10_chs](https://pan.lanzoui.com/b0i38vsd "https://pan.lanzoui.com/b0i38vsd")|[211101](https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer "https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer")|PotPlayer 皮肤 Modern W10 原版汉化(by 断剑留痕)|
