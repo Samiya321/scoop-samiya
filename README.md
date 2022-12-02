@@ -54,7 +54,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
 |[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.44](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
-|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1897](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
+|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1902](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[Quicker](https://getquicker.net/ "https://getquicker.net/")|[1.36.10.0](https://getquicker.net/Download "https://getquicker.net/Download")||
 |[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|[1.6](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|Revoke Message Patcher for QQ/TIM/WeChat|
 |[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.4](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
