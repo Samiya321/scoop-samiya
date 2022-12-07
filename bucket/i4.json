@@ -1,10 +1,10 @@
 {
-    "version": "7.98.69",
+    "version": "7.98.70",
     "description": "爱思助手",
     "homepage": "https://www.i4.cn/pro_pc.html",
     "license": "Freeware",
-    "url": "https://d-ali4tool.i4.cn/i4tools/V7/v7.98/69/i4Tools_v7.98.69_Setup.exe#/dl.7z",
-    "hash": "d4a570e28d4fcfeecdb42462f00bc7b2dc17e8c588ca6c89a12879e84c2098d9",
+    "url": "https://d-ali4tool.i4.cn/i4tools/V7/v7.98/70/i4Tools_v7.98.70_Setup.exe#/dl.7z",
+    "hash": "1e450eba4509cf3b960896330d1fdd84d94223b3557a41a425ae634541c5701e",
     "bin": "i4Tools.exe",
     "shortcuts": [
         [
