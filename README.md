@@ -55,10 +55,10 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
 |[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.44](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
-|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1902](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
+|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1906](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[Quicker](https://getquicker.net/ "https://getquicker.net/")|[1.36.10.0](https://getquicker.net/Download "https://getquicker.net/Download")||
 |[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|[1.6](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|Revoke Message Patcher for QQ/TIM/WeChat|
-|[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.5](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
+|[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.6](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
 |[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.3.5.1](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
 |[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.0.3](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
 |[TuBaTool](https://github.com/kkzzhizhou/scoop-zapps "https://github.com/kkzzhizhou/scoop-zapps")|[2022.01](https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest "https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest")|图吧工具箱|
@@ -68,7 +68,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[ZY-Player](http://zyplayer.fun/ "http://zyplayer.fun/")|[2.8.8](http://zyplayer.fun/ "http://zyplayer.fun/")|跨平台视频资源播放器, 简洁免费无广告|
 |[aliyunpan-xiaobaiyang](https://github.com/liupan1890/aliyunpan "https://github.com/liupan1890/aliyunpan")|[<i>2.12.14</i>](https://github.com/liupan1890/aliyunpan "https://github.com/liupan1890/aliyunpan")|阿里云小白羊版 第三方的阿里云盘客户端|
 |[clipboard-online](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|[0.2.7](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|在各平台间同步剪贴板 好用好用好用 Windows和iOS打通啦|
-|[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.3.5](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
+|[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.3.6](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
 |[copy-translator-rust](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|[0.4.1](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|Copy Translator 是使用Rust编写的翻译小工具 论文必备|
 |[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
 |[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.70](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
