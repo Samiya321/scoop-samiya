@@ -71,7 +71,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.3.7](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
 |[copy-translator-rust](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|[0.4.1](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|Copy Translator 是使用Rust编写的翻译小工具 论文必备|
 |[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
-|[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.70](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
+|[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.71](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|[1.0.0](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|IDM试用重置工具 可无限白嫖IDM|
 |[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|[2.0.3](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|一个基于 electron 的音乐软件|
 |[potplayer-noad-portable](https://potplayer.daum.net "https://potplayer.daum.net")|[211118](https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer "https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer")|Potplayer便携版 最强大的影音播放工具|
