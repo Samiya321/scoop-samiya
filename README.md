@@ -34,7 +34,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 <!-- Your edits will be lost the next time makeindex.py is run -->
 |Name|Version|Description|
 |----|-------|-----------|
-|[1Password](https://1password.com/ "https://1password.com/")|[8.9.12](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
+|[1Password](https://1password.com/ "https://1password.com/")|[8.9.13](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
 |[AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|[2.0](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[BBdown](https://github.com/nilaoda/BBDown "https://github.com/nilaoda/BBDown")|[1.5.4](https://api.github.com/repos/nilaoda/BBDown/releases/latest "https://api.github.com/repos/nilaoda/BBDown/releases/latest")|下载哔哩哔哩视频的命令行工具|
 |[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.23.0.10](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
@@ -73,7 +73,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
 |[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.71](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|[1.0.0](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|IDM试用重置工具 可无限白嫖IDM|
-|[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|[2.0.4](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|一个基于 electron 的音乐软件|
+|[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|[2.0.5](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|一个基于 electron 的音乐软件|
 |[potplayer-noad-portable](https://potplayer.daum.net "https://potplayer.daum.net")|[211118](https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer "https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer")|Potplayer便携版 最强大的影音播放工具|
 |[potplayer-skin-modernwin10_chs](https://pan.lanzoui.com/b0i38vsd "https://pan.lanzoui.com/b0i38vsd")|[211101](https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer "https://raw.githubusercontent.com/JaimeZeng/scoop-apps-version/main/PotPlayer")|PotPlayer 皮肤 Modern W10 原版汉化(by 断剑留痕)|
 |[scoop-completion](https://github.com/Moeologist/scoop-completion "https://github.com/Moeologist/scoop-completion")|[0.2.4](https://api.github.com/repos/Moeologist/scoop-completion/tags "https://api.github.com/repos/Moeologist/scoop-completion/tags")|在Powershell中scoop自动补全工具|
