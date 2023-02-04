@@ -68,7 +68,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[ZY-Player](http://zyplayer.fun/ "http://zyplayer.fun/")|[2.8.8](http://zyplayer.fun/ "http://zyplayer.fun/")|跨平台视频资源播放器, 简洁免费无广告|
 |[aliyunpan-xiaobaiyang](https://github.com/liupan1890/aliyunpan "https://github.com/liupan1890/aliyunpan")|[<i>2.12.14</i>](https://github.com/liupan1890/aliyunpan "https://github.com/liupan1890/aliyunpan")|阿里云小白羊版 第三方的阿里云盘客户端|
 |[clipboard-online](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|[0.2.7](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|在各平台间同步剪贴板 好用好用好用 Windows和iOS打通啦|
-|[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.3.7](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
+|[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.3.8](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
 |[copy-translator-rust](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|[0.4.1](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|Copy Translator 是使用Rust编写的翻译小工具 论文必备|
 |[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
 |[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.71](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
@@ -82,5 +82,5 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[tianruoocr-cl](https://gitee.com/wanglifree/tianruoocr-cl "https://gitee.com/wanglifree/tianruoocr-cl")|[1.3.8.1](https://api.github.com/repos/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases/latest "https://api.github.com/repos/wangfreexx/wangfreexx-tianruoocr-cl-paddle/releases/latest")|天若ocr开源版本的本地版，采用Chinese-lite和paddle-ocr识别, 不需联网|
 |[uninstalltool](https://www.crystalidea.com/uninstall-tool "https://www.crystalidea.com/uninstall-tool")|[<i>3.6.1.5687</i>](https://www.crystalidea.com/uninstall-tool "https://www.crystalidea.com/uninstall-tool")|快速而强大的卸载程序，用于完全删除程序|
 |[utools](https://u.tools/ "https://u.tools/")|[3.3.0](https://publish.u-tools.cn/version2/latest.yml "https://publish.u-tools.cn/version2/latest.yml")|新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集|
-|[vmware-workstation-pro](https://www.vmware.com/products/workstation-pro.html "https://www.vmware.com/products/workstation-pro.html")|[17.0.0-20800274](https://chocolatey.org/packages/vmwareworkstation "https://chocolatey.org/packages/vmwareworkstation")|vmware虚拟机专业版|
+|[vmware-workstation-pro](https://www.vmware.com/products/workstation-pro.html "https://www.vmware.com/products/workstation-pro.html")|[17.0.1-21139696](https://chocolatey.org/packages/vmwareworkstation "https://chocolatey.org/packages/vmwareworkstation")|vmware虚拟机专业版|
 |[wpd](https://wpd.app/ "https://wpd.app/")|[1.5.2042](https://wpd.app/ "https://wpd.app/")|一个小而强大的可移植工具，可通过 Windows API 工作。WPD是在窗口中配置各种隐私设置的最便捷方法。|
