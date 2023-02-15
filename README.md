@@ -34,7 +34,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 <!-- Your edits will be lost the next time makeindex.py is run -->
 |Name|Version|Description|
 |----|-------|-----------|
-|[1Password](https://1password.com/ "https://1password.com/")|[8.9.14](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
+|[1Password](https://1password.com/ "https://1password.com/")|[8.10.0](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
 |[AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|[2.0](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[BBdown](https://github.com/nilaoda/BBDown "https://github.com/nilaoda/BBDown")|[1.5.4](https://api.github.com/repos/nilaoda/BBDown/releases/latest "https://api.github.com/repos/nilaoda/BBDown/releases/latest")|下载哔哩哔哩视频的命令行工具|
 |[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.25.0.4](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
@@ -55,12 +55,12 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
 |[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.45](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
-|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1906](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
+|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1917](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[Quicker](https://getquicker.net/ "https://getquicker.net/")|[1.36.10.0](https://getquicker.net/Download "https://getquicker.net/Download")||
 |[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|[1.6](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|Revoke Message Patcher for QQ/TIM/WeChat|
 |[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.6](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
 |[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.4.1.0](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
-|[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.0.3](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
+|[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.1.3](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
 |[TuBaTool](https://github.com/kkzzhizhou/scoop-zapps "https://github.com/kkzzhizhou/scoop-zapps")|[2022.01](https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest "https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest")|图吧工具箱|
 |[WeChat](https://pc.weixin.qq.com/ "https://pc.weixin.qq.com/")|[3.7.6.44](https://pc.qq.com/detail/8/detail_11488.html "https://pc.qq.com/detail/8/detail_11488.html")|微信PC版|
 |[WinFiLite](https://www.helge-keck.com/ "https://www.helge-keck.com/")|[<i>1.0.21.9</i>](https://www.helge-keck.com/ "https://www.helge-keck.com/")|WinFi Lite is a powerful WiFi Analyzer for Windows 10.|
