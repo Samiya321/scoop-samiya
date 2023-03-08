@@ -34,7 +34,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 <!-- Your edits will be lost the next time makeindex.py is run -->
 |Name|Version|Description|
 |----|-------|-----------|
-|[1Password](https://1password.com/ "https://1password.com/")|[8.10.0](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
+|[1Password](https://1password.com/ "https://1password.com/")|[8.10.1](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
 |[AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|[2.0](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[BBdown](https://github.com/nilaoda/BBDown "https://github.com/nilaoda/BBDown")|[1.5.4](https://api.github.com/repos/nilaoda/BBDown/releases/latest "https://api.github.com/repos/nilaoda/BBDown/releases/latest")|下载哔哩哔哩视频的命令行工具|
 |[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.25.0.4](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
