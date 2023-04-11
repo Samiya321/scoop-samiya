@@ -37,7 +37,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[1Password](https://1password.com/ "https://1password.com/")|[8.10.3](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
 |[AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|[2.0](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[BBdown](https://github.com/nilaoda/BBDown "https://github.com/nilaoda/BBDown")|[1.5.4](https://api.github.com/repos/nilaoda/BBDown/releases/latest "https://api.github.com/repos/nilaoda/BBDown/releases/latest")|下载哔哩哔哩视频的命令行工具|
-|[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.26.0.10](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
+|[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.27.0.5](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
 |[BalenaEtcher](https://www.balena.io/etcher/ "https://www.balena.io/etcher/")|[1.18.4](https://www.balena.io/etcher/ "https://www.balena.io/etcher/")|balenaEtcher. 快速刷写镜像到 to SD cards & USB drives|
 |[Best-Trace](https://en.ipip.net/product/client.html "https://en.ipip.net/product/client.html")|[3.8.0](https://www.ipip.net/product/client.html "https://www.ipip.net/product/client.html")|BestTrace 查看路由 ip等信息|
 |[BeyondCompare](https://www.scootersoftware.com/download.php "https://www.scootersoftware.com/download.php")|[<i>4.4.3.26655</i>](https://www.scootersoftware.com/download.php "https://www.scootersoftware.com/download.php")|Beyond Compare 最强大的比较工具|
@@ -53,7 +53,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[Notepad3](https://www.rizonesoft.com/downloads/notepad3/ "https://www.rizonesoft.com/downloads/notepad3/")|[5.21.227.1](https://www.rizonesoft.com/downloads/notepad3/ "https://www.rizonesoft.com/downloads/notepad3/")|Notepad like text editor based on the Scintilla source code.|
 |[OfficeBox](http://www.wofficebox.com/ "http://www.wofficebox.com/")|[3.1.0](http://www.wofficebox.com/js/common.js "http://www.wofficebox.com/js/common.js")|万彩办公大师 办公必备的小工具百宝箱|
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
-|[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.46](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
+|[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.47](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
 |[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1924](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[Quicker](https://getquicker.net/ "https://getquicker.net/")|[1.36.10.0](https://getquicker.net/Download "https://getquicker.net/Download")||
