@@ -34,7 +34,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 <!-- Your edits will be lost the next time makeindex.py is run -->
 |Name|Version|Description|
 |----|-------|-----------|
-|[1Password](https://1password.com/ "https://1password.com/")|[8.10.3](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
+|[1Password](https://1password.com/ "https://1password.com/")|[8.10.4](https://app-updates.agilebits.com/product_history/OPW8 "https://app-updates.agilebits.com/product_history/OPW8")|1Password世界上最好的密码管理器|
 |[AutoDeleteFileOnPCWechat](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|[2.0](https://github.com/blackboxo/AutoDeleteFileOnPCWechat "https://github.com/blackboxo/AutoDeleteFileOnPCWechat")|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[BBdown](https://github.com/nilaoda/BBDown "https://github.com/nilaoda/BBDown")|[1.5.4](https://api.github.com/repos/nilaoda/BBDown/releases/latest "https://api.github.com/repos/nilaoda/BBDown/releases/latest")|下载哔哩哔哩视频的命令行工具|
 |[BaiduNetdisk](https://yun.baidu.com "https://yun.baidu.com")|[7.27.0.5](https://pan.baidu.com/disk/cmsdata?do=client "https://pan.baidu.com/disk/cmsdata?do=client")|百度网盘 PC 版|
@@ -60,7 +60,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|[1.6](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|Revoke Message Patcher for QQ/TIM/WeChat|
 |[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.6](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
 |[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.4.3.0](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
-|[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.2.2](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
+|[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.2.1](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
 |[TuBaTool](https://github.com/kkzzhizhou/scoop-zapps "https://github.com/kkzzhizhou/scoop-zapps")|[2022.01](https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest "https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest")|图吧工具箱|
 |[WeChat](https://pc.weixin.qq.com/ "https://pc.weixin.qq.com/")|[3.9.2.23](https://pc.qq.com/detail/8/detail_11488.html "https://pc.qq.com/detail/8/detail_11488.html")|微信PC版|
 |[WinFiLite](https://www.helge-keck.com/ "https://www.helge-keck.com/")|[<i>1.0.21.9</i>](https://www.helge-keck.com/ "https://www.helge-keck.com/")|WinFi Lite is a powerful WiFi Analyzer for Windows 10.|
