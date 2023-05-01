@@ -68,7 +68,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[ZY-Player](http://zyplayer.fun/ "http://zyplayer.fun/")|[2.8.8](http://zyplayer.fun/ "http://zyplayer.fun/")|跨平台视频资源播放器, 简洁免费无广告|
 |[aliyunpan-xiaobaiyang](https://github.com/liupan1890/aliyunpan "https://github.com/liupan1890/aliyunpan")|[<i>2.12.14</i>](https://github.com/liupan1890/aliyunpan "https://github.com/liupan1890/aliyunpan")|阿里云小白羊版 第三方的阿里云盘客户端|
 |[clipboard-online](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|[0.2.7](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|在各平台间同步剪贴板 好用好用好用 Windows和iOS打通啦|
-|[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.4.0](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
+|[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.4.1](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
 |[copy-translator-rust](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|[0.4.1](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|Copy Translator 是使用Rust编写的翻译小工具 论文必备|
 |[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
 |[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.72](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
