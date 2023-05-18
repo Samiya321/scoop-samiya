@@ -55,11 +55,11 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
 |[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.47](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
-|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1924](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
+|[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1933](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[Quicker](https://getquicker.net/ "https://getquicker.net/")|[1.36.10.0](https://getquicker.net/Download "https://getquicker.net/Download")||
 |[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|[1.6](https://github.com/huiyadanli/RevokeMsgPatcher "https://github.com/huiyadanli/RevokeMsgPatcher")|Revoke Message Patcher for QQ/TIM/WeChat|
 |[SteamTools](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|[2.8.6](https://github.com/SteamTools-Team/SteamTools/ "https://github.com/SteamTools-Team/SteamTools/")|Steam工具箱 兼具一些代理功能|
-|[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.5.0.1](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
+|[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.5.0.8](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
 |[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.6.2.3](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
 |[TuBaTool](https://github.com/kkzzhizhou/scoop-zapps "https://github.com/kkzzhizhou/scoop-zapps")|[2022.01](https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest "https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest")|图吧工具箱|
 |[WeChat](https://pc.weixin.qq.com/ "https://pc.weixin.qq.com/")|[3.9.2.23](https://pc.qq.com/detail/8/detail_11488.html "https://pc.qq.com/detail/8/detail_11488.html")|微信PC版|
