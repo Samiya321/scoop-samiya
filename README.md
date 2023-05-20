@@ -70,7 +70,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[clipboard-online](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|[0.2.7](https://github.com/YanxinTang/clipboard-online "https://github.com/YanxinTang/clipboard-online")|在各平台间同步剪贴板 好用好用好用 Windows和iOS打通啦|
 |[coodesker](https://www.coodesker.com/ "https://www.coodesker.com/")|[1.0.4.1](https://www.coodesker.com/ "https://www.coodesker.com/")|酷呆桌面 自动分类整理桌面文件|
 |[copy-translator-rust](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|[0.4.1](https://github.com/zu1k/copy-translator "https://github.com/zu1k/copy-translator")|Copy Translator 是使用Rust编写的翻译小工具 论文必备|
-|[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.3.6](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
+|[good-mitm](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|[0.4.2](https://github.com/zu1k/good-mitm "https://github.com/zu1k/good-mitm")|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|
 |[i4](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|[7.98.72](https://www.i4.cn/pro_pc.html "https://www.i4.cn/pro_pc.html")|爱思助手|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|[1.0.0](https://github.com/J2TEAM/idm-trial-reset "https://github.com/J2TEAM/idm-trial-reset")|IDM试用重置工具 可无限白嫖IDM|
 |[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|[2.2.2](https://github.com/lyswhut/lx-music-desktop "https://github.com/lyswhut/lx-music-desktop")|一个基于 electron 的音乐软件|
