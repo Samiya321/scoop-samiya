@@ -53,7 +53,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[Notepad3](https://www.rizonesoft.com/downloads/notepad3/ "https://www.rizonesoft.com/downloads/notepad3/")|[5.21.227.1](https://www.rizonesoft.com/downloads/notepad3/ "https://www.rizonesoft.com/downloads/notepad3/")|Notepad like text editor based on the Scintilla source code.|
 |[OfficeBox](http://www.wofficebox.com/ "http://www.wofficebox.com/")|[3.1.0](http://www.wofficebox.com/js/common.js "http://www.wofficebox.com/js/common.js")|万彩办公大师 办公必备的小工具百宝箱|
 |[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.2](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
-|[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.47](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
+|[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.48](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
 |[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1933](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
 |[Quicker](https://getquicker.net/ "https://getquicker.net/")|[1.36.10.0](https://getquicker.net/Download "https://getquicker.net/Download")||
