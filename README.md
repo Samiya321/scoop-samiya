@@ -62,7 +62,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[TickTick](https://ticktick.com/home "https://ticktick.com/home")|[4.5.0.8](https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0 "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0")|滴答清单 效率工具 管理时间.|
 |[Todesk](https://www.todesk.com/ "https://www.todesk.com/")|[4.7.0.1](https://update.todesk.com/windows/uplog.html "https://update.todesk.com/windows/uplog.html")|远程连接工具|
 |[TuBaTool](https://github.com/kkzzhizhou/scoop-zapps "https://github.com/kkzzhizhou/scoop-zapps")|[2022.01](https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest "https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/TuBaTool.latest")|图吧工具箱|
-|[WeChat](https://pc.weixin.qq.com/ "https://pc.weixin.qq.com/")|[3.9.2.23](https://pc.qq.com/detail/8/detail_11488.html "https://pc.qq.com/detail/8/detail_11488.html")|微信PC版|
+|[WeChat](https://pc.weixin.qq.com/ "https://pc.weixin.qq.com/")|[3.9.5.81](https://pc.qq.com/detail/8/detail_11488.html "https://pc.qq.com/detail/8/detail_11488.html")|微信PC版|
 |[WinFiLite](https://www.helge-keck.com/ "https://www.helge-keck.com/")|[<i>1.0.21.9</i>](https://www.helge-keck.com/ "https://www.helge-keck.com/")|WinFi Lite is a powerful WiFi Analyzer for Windows 10.|
 |[WiseCare365](https://www.wisecleaner.com.cn/wise-care-365.html "https://www.wisecleaner.com.cn/wise-care-365.html")|[<i>6.3.7.615</i>](https://www.wisecleaner.com.cn/wise-care-365.html "https://www.wisecleaner.com.cn/wise-care-365.html")|Windows 系统清理和加速工具|
 |[ZY-Player](http://zyplayer.fun/ "http://zyplayer.fun/")|[2.8.8](http://zyplayer.fun/ "http://zyplayer.fun/")|跨平台视频资源播放器, 简洁免费无广告|
