@@ -52,7 +52,7 @@ scoop bucket add samiya https://jihulab.com/samiya/scoop-samiya
 |[NetSetMan](https://www.netsetman.com/en/freeware "https://www.netsetman.com/en/freeware")|[5.2.0](https://www.netsetman.com/en/freeware "https://www.netsetman.com/en/freeware")|快速切换网络设置工具 好用好用好用|
 |[Notepad3](https://www.rizonesoft.com/downloads/notepad3/ "https://www.rizonesoft.com/downloads/notepad3/")|[5.21.227.1](https://www.rizonesoft.com/downloads/notepad3/ "https://www.rizonesoft.com/downloads/notepad3/")|Notepad like text editor based on the Scintilla source code.|
 |[OfficeBox](http://www.wofficebox.com/ "http://www.wofficebox.com/")|[3.1.0](http://www.wofficebox.com/js/common.js "http://www.wofficebox.com/js/common.js")|万彩办公大师 办公必备的小工具百宝箱|
-|[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.3](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
+|[OpenHashTab](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|[3.0.4](https://github.com/namazso/OpenHashTab "https://github.com/namazso/OpenHashTab")|为资源管理器属性加上Hash校验|
 |[PandaOCRPro](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|[5.49](https://github.com/miaomiaosoft/PandaOCR.Pro "https://github.com/miaomiaosoft/PandaOCR.Pro")|多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|
 |[Postman-CN](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|[9.12.2](https://github.com/hlmd/postman-cn "https://github.com/hlmd/postman-cn")|Postman中文版, Complete API development environment.|
 |[QQMusic](https://y.qq.com/ "https://y.qq.com/")|[1933](https://api.nicoconi.com/updater/qqmusic "https://api.nicoconi.com/updater/qqmusic")|QQ音乐|
